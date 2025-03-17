@@ -1,4 +1,4 @@
-# Pythonsedat
+# Pythontoolssedat
 
 ## 📌 Overview  
 **Pythonsedat** is a collection of **automation and analysis scripts** developed for diverse applications, including **image processing, automation, and residency estimation**. These scripts streamline tasks such as detecting circles in medical images, automating reviewer invitations for academic journals, estimating U.S. residency status, and organizing thoughts through mind mapping.
