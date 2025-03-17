@@ -13,7 +13,7 @@
 ## 🛠 Installation  
 Clone the repository:  
 ```sh
-git clone https://github.com/sedatkacar56/Pythonttolssedat.git
+git clone https://github.com/sedatkacar56/Pythontoolssedat.git
 ```
 Navigate to the directory:  
 ```sh
