@@ -56,5 +56,5 @@ This project is licensed under the **MIT License**.
 
 ---
 💡 **Author:** Sedat Kacar  
-📧 **Contact:** [Your Email]  
+📧 **Contact:** sedatkacar56@gmail.com
 📌 **GitHub:** [sedatkacar56](https://github.com/sedatkacar56)  
